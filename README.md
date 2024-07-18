@@ -6,7 +6,7 @@ Welcome to the Job Seeking Mobile App project! This repository contains the desi
 
 You can view the detailed design of the Job Seeking Mobile App on Figma by clicking the link below:
 
-[View the Figma Project](https://www.figma.com/design/FJthkKUzcw17sou6OxQTwb/A3?node-id=0-1&t=T6AGUYi9zLGqUTOC-1))
+[View the Figma Project](https://www.figma.com/design/FJthkKUzcw17sou6OxQTwb/A3?node-id=0-1&t=T6AGUYi9zLGqUTOC-1)
 
 ## Project Overview
 
